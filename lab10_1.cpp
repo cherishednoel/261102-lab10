@@ -35,5 +35,6 @@ int main(){
 		year++;
 		if (loan <= 0) break;
 	}
+	
 	return 0;
 }
