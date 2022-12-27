@@ -31,7 +31,7 @@ int main(){
 		cout << setw(13) << left << payment;
 		loan = total - payment;
 		cout << setw(13) << left << loan;
-		cout << endl;
+		cout << "\n";
 		year++;
 		if (loan <= 0) break;
 	}
