@@ -18,7 +18,7 @@ int main(){
 	cout << setw(13) << left << "Total";
 	cout << setw(13) << left << "Payment";
 	cout << setw(13) << left << "NewBalance";
-	cout << endl;
+	cout << "\n";
 	
 	while(true) {
 		cout << fixed << setprecision(2); 
